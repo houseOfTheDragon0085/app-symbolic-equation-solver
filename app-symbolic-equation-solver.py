@@ -1,7 +1,7 @@
 import streamlit as st
 import sympy as sym
 
-st.title("Symbolic Equation Solver with SymPy")
+st.title("Symbolic Equation Solver MathMind")
 
 st.write("Enter algebraic equations with symbolic variables for x, y, and z separately:")
 
